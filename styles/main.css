@@ -42,3 +42,46 @@ ol[class] {
   margin-top: var(--flow-spacer, var(--spacer));
 }
 /* Start Here */
+
+.first
+{
+  font-weight: bold;
+  font-size: 30px;
+  color:#3d2892;
+  margin-left: 10%;
+  font-family: calibri;
+}
+.second
+{
+  color: #f55d3a;
+}
+.navigation
+{
+  margin: 0 auto;
+}
+.nav
+{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  top: 0;
+  position: sticky;
+}
+.navlist
+{
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  display: inline-block;
+}
+.navlist
+{
+  display: inline;
+}
+.top_right
+{
+  margin-right: 80px;
+  margin-left: -60px;
+  color: #3d2892;
+  text-decoration: none;
+}
